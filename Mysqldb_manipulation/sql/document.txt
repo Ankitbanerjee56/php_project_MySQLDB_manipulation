@@ -1,0 +1,19 @@
+This project:
+
+demonstrates CRUD operations in mySQL database using
+php 
+
+CRUD- CREATE READ UPDATE DELETE 
+
+The grid fetches the data from databse in index.php
+
+to create a record click adduser at the top of the table
+
+to update a record click edit 
+
+to delete a record click delete
+
+to search a record by name enter the name in searchbox 
+click on search button it will show relevent records
+
+pagination added in the end showing 10 records per page
